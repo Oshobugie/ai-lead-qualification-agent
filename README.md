@@ -26,7 +26,7 @@ The system operates on a "Trigger → Process → Router → Action" model:
     * **path_unqualified:** If they don't meet criteria, they receive a polite rejection email with a specific reason.
 4.  **Log:** The system records the decision reasoning back to the database for transparency.
 
-![Workflow Diagram](<img width="1282" height="607" alt="image" src="https://github.com/user-attachments/assets/bf2c901e-1766-41e4-a391-195f4c455b9e" />
+(<img width="1282" height="607" alt="image" src="https://github.com/user-attachments/assets/bf2c901e-1766-41e4-a391-195f4c455b9e" />
 
 
 ---
